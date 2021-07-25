@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+  font-family: YuKyokasho, sans-serif;
+}
+
+
+.mainvisual {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  box-shadow: 0px 3px 6px #3B0F0F29;
+  border: 1px solid #707070;
+  opacity: 0.65;
+}
+
+.mainvisual img {
+  width: 100%;
+}
+
+.mainvisual p {
+  position:absolute;
+  top: 724px;
+  left: 260px;
+  width: 1400px;
+  height: 244px;
+  text-align: left;
+  font: normal normal bold 40px/68px YuKyokasho;
+  letter-spacing: 0px;
+  color: #2B2121;
+  opacity: 1;
+  margin-top: 724px;
+  margin-left: 260px;
+  margin-right: 260px;
+  margin-bottom: 112px;
+}
